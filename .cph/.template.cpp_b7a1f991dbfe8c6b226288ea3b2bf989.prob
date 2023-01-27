@@ -1,1 +1,1 @@
-{"name":"Local: template","url":"e:\\CC\\template.cpp","tests":[{"id":1672249638044,"input":"2","output":"YES\nNO\n\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\CC\\template.cpp","group":"local","local":true}
+{"name":"Local: template","url":"e:\\CC\\template.cpp","tests":[],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\CC\\template.cpp","group":"local","local":true}
